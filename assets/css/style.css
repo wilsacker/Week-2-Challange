@@ -3,7 +3,9 @@
 /* Main Starts Here */
 
 img {
-   resize: both 50%;
+   border-radius: 50%;
+   width: 150px;
+   margin: 20px;
 }
 
 /* Footer starts Here */
