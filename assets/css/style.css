@@ -1,4 +1,28 @@
+/* Root Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #181818;
+    color: white;
+    padding: 0.1rem;
+}
+
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    line-height: 1.5;
+}
+
 /* Nav starts Here */
+header h1{
+    margin: 20px 20px 0px 20px;
+}
+
+header h3{
+    margin-left: 40px;
+    
+}
 
 /* Main Starts Here */
 
@@ -8,4 +32,7 @@ img {
    margin: 20px;
 }
 
+nav {
+
+}
 /* Footer starts Here */
