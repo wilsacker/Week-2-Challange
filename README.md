@@ -1,7 +1,7 @@
 # Challange 2 - Advanced CSS
 Week 2 - Columbia Boot Camp
 
-## Link to deployed website: 
+## Link to deployed website: https://wilsacker.github.io/Week-2-Challange/
 
 ## Description:
 
@@ -12,6 +12,7 @@ Week 2 - Columbia Boot Camp
 
 ## Photos
 
+<img width="1679" alt="Screenshot 2024-06-09 at 14 29 56" src="https://github.com/wilsacker/Week-2-Challange/assets/166459358/c099b789-4498-4ccc-ac1a-5d89d5f93814">
 
 
 ## Credits
