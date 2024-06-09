@@ -58,12 +58,16 @@ nav ul li a:hover {
     cursor: pointer;
 }
 
-img {
+.profile-img {
     border-radius: 50%;
     width: 150px;
     margin: 20px;
  }
  
+ img {
+    width: 150px;
+    margin: 20px;
+ }
 
 /* Main Starts Here */
 
@@ -92,6 +96,21 @@ img {
 .container div {
     flex: 1;
     padding-left: 20px;
+}
+
+.projects {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.row > a > img {
+    border: #A076E1 solid 5px;
 }
 
 /* Footer starts Here */
